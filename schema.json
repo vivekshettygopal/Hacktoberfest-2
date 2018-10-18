@@ -33,5 +33,15 @@
       ]
     }
   },
+  "types of verbs":{
+    "verbs":[
+      "action",
+      "transitive",
+      "stative",
+      "irregular"
+    ]
+  }
+},
   "additionalProperties": false
+  
 }
